@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="outcircle" format="reference" />
+    <attr name="innercircle" format="reference" />
+    <attr name="sidewidth" format="dimension" />
+    <attr name="progress_text_size" format="dimension"/>
+
+    <declare-styleable name="CircleProgressBar">
+        <attr name="outcircle" />
+        <attr name="innercircle" />
+        <attr name="sidewidth" />
+        <attr name="progress_text_size"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_login">登录</string>
+    <string name="button_signup">注册</string>
+
+    <string name="edit_username">用户名</string>
+    <string name="edit_password">密 码</string>
+</resources>

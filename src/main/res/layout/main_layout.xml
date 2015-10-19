@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:text="@string/share_sdk"
+        android:textSize="38sp"
+        android:textColor="#212121"
+        android:gravity="center"
+        android:background="#FF0000"
+        android:layout_weight="1.0"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/share_sdk"
+        android:textSize="24sp"
+        android:onClick="doshared"
+        android:layout_margin="15dip"
+        android:gravity="center"/>
+</LinearLayout>

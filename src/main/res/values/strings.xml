@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShareSDK</string>
+    <string name="share_sdk">体验一键分享</string>
+
+    <string name="button_login">Login</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="edit_username">username</string>
+    <string name="edit_password">password</string>
+    <string name="exit_btn">Exit</string>
+</resources>
